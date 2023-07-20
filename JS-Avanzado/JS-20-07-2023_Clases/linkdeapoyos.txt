@@ -1,0 +1,10 @@
+
+APoyo de clases y POO
+https://es.javascript.info/classes
+https://estradawebgroup.com/Post/Sintaxis-basica-de-una-clase-en-JavaScript/20674
+https://bluuweb.github.io/desarrollo-web-bluuweb/11-11-js-poo/#%C2%BFque-es-poo
+
+
+APOYO DE SOLID 
+https://jfbarrios.com/principios-solid-en-javascript
+https://hackernoon.com/es/entender-principios-solidos-en-javascript-w1cx3yrv
